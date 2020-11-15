@@ -7,7 +7,10 @@ In addition to the above mentioned, I studied Sass/Scss, PWA, node.js, little Re
 
 Currently, I works as Automation in production facility.
 
-## 
+## Education
+
+I graduated Warsaw University of Technology in Faculty of Machtronics. 
+I have degree master of science, engineer in Mechatronics
 
 
 
