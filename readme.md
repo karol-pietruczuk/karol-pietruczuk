@@ -5,6 +5,7 @@ In addition to the above mentioned, I studied Sass/Scss, PWA, node.js, little Re
 
 ## My current work
 
+Currently, I works as Automation in production facility.
 
 ## 
 
